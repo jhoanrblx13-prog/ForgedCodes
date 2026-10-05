@@ -1,0 +1,11 @@
+{
+  "name": "forge",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node gateway/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
